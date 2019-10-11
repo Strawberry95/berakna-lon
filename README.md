@@ -1,5 +1,4 @@
 # berakna-lon
-Privacy Policy Beräkna Lön
 
 **Privacy Policy**
 
